@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Bonjour Le Monde',
-  domain: 'thttps://f1sh.notion.site/f1sh/Welcome-e81fa44e0eaf4740957616cbea6a43b1',
+  domain: 'https://f1sh.notion.site/f1sh/Welcome-e81fa44e0eaf4740957616cbea6a43b1',
   author: 'F1sh',
 
   // open graph metadata (optional)
